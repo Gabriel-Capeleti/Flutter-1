@@ -136,7 +136,7 @@ class _MyHomePageState extends State<MyHomePage> {
 		vh = double.parse(vHora.text);
 		qh = double.parse(qHora.text);
 		sb = vh * qh;
-		sBruto.text = sb.toString()
+		sBruto.text = sb.toString();
     }
     
 }
